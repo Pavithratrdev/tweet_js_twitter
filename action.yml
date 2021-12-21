@@ -1,6 +1,6 @@
 name: 'GitHub Tweet Action'
 description: 'Send tweet on PR merge'
-author: 'James Hibbard'
+author: 'Pavithra'
 inputs:
   consumer-key:
     description: >
